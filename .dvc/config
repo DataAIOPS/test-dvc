@@ -1,2 +1,4 @@
-['remote "origin"']
-    url = https://dagshub.com/DataAIOPS/mlflow_test.dvc
+[core]
+    remote = new
+['remote "new"']
+    url = https://dagshub.com/DataAIOPS/test-dvc.dvc
